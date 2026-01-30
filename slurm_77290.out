@@ -1,0 +1,5 @@
+slurmstepd-biolithe: error: Unable to create TMPDIR [/tmp/user/25650]: Permission denied
+slurmstepd-biolithe: error: Setting TMPDIR to /tmp
+CUDA: True
+GPU: NVIDIA GeForce RTX 2060 SUPER
+/home/o/obermaierv/projects/my_pytorch_project/venv/bin/python: Error while finding module specification for 'src.training.training' (ModuleNotFoundError: No module named 'src')
